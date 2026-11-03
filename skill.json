@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cutaneous-galvanic-skin-conductance-tonic-phasic-skill",
+  "version": "1.0.0",
+  "description": "Decomposes continuous skin conductance (EDA/GSR) into tonic baseline (SCL) and phasic sweat burst responses (SCR) to quantify autonomic sympathetic arousal.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "eda",
+    "gsr",
+    "sympathetic",
+    "autonomic",
+    "stress",
+    "electrodermal",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
